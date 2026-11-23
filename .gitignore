@@ -2,7 +2,6 @@
 venv/
 # .env: el archivo con tus contraseñas reales, nunca debe llegar a GitHub
 .env
-.env.example
 # __pycache__/: archivos compilados que Python genera solo, no son código fuente
 __pycache__/
 # env/: segundo entorno virtual, tampoco se sube
